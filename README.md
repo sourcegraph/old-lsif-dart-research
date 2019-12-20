@@ -1,4 +1,29 @@
-A sample command-line application.
+# Dart LSIF indexer
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Visit https://lsif.dev/ to learn about LSIF.
+
+## Installation
+
+Required tools:
+
+- TODO
+
+**macOS**
+
+```
+TODO
+```
+
+**Ubuntu 18.04**
+
+```
+TODO
+```
+
+## Generating an LSIF dump
+
+TODO
+
+## Development
+
+TODO
